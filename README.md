@@ -1,1 +1,1 @@
-https://github.com/EvgenyaTokareva/first-project
+https://github.com/EvgenyaTokareva/first-project.git
