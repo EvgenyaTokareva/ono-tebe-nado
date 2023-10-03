@@ -1,1 +1,1 @@
-https://github.com/EvgenyaTokareva/first-project.git
+https://github.com/EvgenyaTokareva/ono-tebe-nado.git
